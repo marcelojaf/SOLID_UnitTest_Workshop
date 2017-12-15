@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{EF90718E-07AB-47B4-8742-7D448422C26D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redbit.SOLID", "Redbit.SOLID\Redbit.SOLID.csproj", "{69E14ED2-7A92-4293-BA84-CB958128DA7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E14ED2-7A92-4293-BA84-CB958128DA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E14ED2-7A92-4293-BA84-CB958128DA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E14ED2-7A92-4293-BA84-CB958128DA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E14ED2-7A92-4293-BA84-CB958128DA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{69E14ED2-7A92-4293-BA84-CB958128DA7A} = {EF90718E-07AB-47B4-8742-7D448422C26D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3866369-D109-43A0-BEFD-C368E358125B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Redbit.SOLID\bin\Debug\netcoreapp2.0\Redbit.SOLID.deps.json
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Redbit.SOLID\bin\Debug\netcoreapp2.0\Redbit.SOLID.dll
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Redbit.SOLID\obj\Debug\netcoreapp2.0\Redbit.SOLID.csprojResolveAssemblyReference.cache
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Redbit.SOLID\obj\Debug\netcoreapp2.0\Redbit.SOLID.csproj.CoreCompileInputs.cache
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Redbit.SOLID\obj\Debug\netcoreapp2.0\Redbit.SOLID.AssemblyInfoInputs.cache
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Redbit.SOLID\obj\Debug\netcoreapp2.0\Redbit.SOLID.AssemblyInfo.cs
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Redbit.SOLID\bin\Debug\netcoreapp2.0\Redbit.SOLID.runtimeconfig.json
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Redbit.SOLID\bin\Debug\netcoreapp2.0\Redbit.SOLID.runtimeconfig.dev.json
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Redbit.SOLID\bin\Debug\netcoreapp2.0\Redbit.SOLID.pdb
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Redbit.SOLID\obj\Debug\netcoreapp2.0\Redbit.SOLID.dll
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Redbit.SOLID\obj\Debug\netcoreapp2.0\Redbit.SOLID.pdb
