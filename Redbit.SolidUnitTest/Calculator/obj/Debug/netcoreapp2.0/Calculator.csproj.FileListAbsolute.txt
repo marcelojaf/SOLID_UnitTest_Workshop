@@ -1,0 +1,9 @@
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Calculator\bin\Debug\netcoreapp2.0\Calculator.deps.json
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Calculator\bin\Debug\netcoreapp2.0\Calculator.dll
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Calculator\bin\Debug\netcoreapp2.0\Calculator.pdb
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Calculator\obj\Debug\netcoreapp2.0\Calculator.csprojResolveAssemblyReference.cache
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Calculator\obj\Debug\netcoreapp2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfoInputs.cache
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfo.cs
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Calculator\obj\Debug\netcoreapp2.0\Calculator.dll
+C:\dev\SOLID_UnitTest_Workshop\Redbit.SolidUnitTest\Calculator\obj\Debug\netcoreapp2.0\Calculator.pdb
